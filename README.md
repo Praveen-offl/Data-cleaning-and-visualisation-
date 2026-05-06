@@ -1,12 +1,15 @@
-# Data Cleaning Project
+# Data Cleaning & Visualization Project
 
 ## Objective
-Analyze IPL dataset using Python.
+To analyze IPL match dataset and extract insights.
 
 ## Tools Used
+- Python
 - Pandas
 - Matplotlib
 - Seaborn
 
-## Conclusion
-Insights were generated from match data.
+## Key Insights
+- Top winning teams identified
+- Toss impact analyzed
+- Player performance trends observed
